@@ -1,1 +1,3 @@
 # Practicas_CDSI
+
+En la práctica 1 el estudiante aplicará técnicas de procesamiento de voz y generará un modelo de clasificación de moods (estados emocionales) para una tarea de interacción humano-robot. Esta práctica se divide en dos fases: (i) entrenamiento y evaluación interna del modelo de clasificación, y (ii) validación externa del modelo con nuevos datos. Para la primera fase los datos serán recopilados en un entorno controlado con ayuda del  responsable de la práctica y les serán compartidos en Google Drive. Para la segunda fase cada estudiante deberá recopilar nuevos datos (e.g. con un celular), y clasificar automáticamente los audios con el modelo re-entrenado.
