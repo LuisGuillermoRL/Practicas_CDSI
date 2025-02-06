@@ -13,3 +13,7 @@ Estas prácticas fueron realizadas mientras estudiaba en el posgrado, específic
 
 ![Muestra de señal](./imgs/pract4_desp.png)![Matriz de confusión Modelo RF](./imgs/pract4_rf.png)
 ![Resultados en la clasificación de actividades](./imgs/pract4_res.png)
+
+* En el Proyecto de la materia se hizo algo parecido a lo de la Práctica 4: Reconocimiento de actividades. El reconocimiento de actividades y/o acciones es el proceso de inferir y asignar una etiqueta de clase a un elemento o instancia de un dataset de vídeo, imágenes, etc. El propósito de este documento es presentar los resultados obtenidos por dos clasificadores de aprendizaje de máquina, a saber, Naive Bayes y Support Vector Machine, cuya tarea fue clasificar tres tipos de actividades sensadas: subir escaleras, bajar escaleras y caminar en piso plano. A continuación se puede ver el sensor puesto en el pie de una persona sensada, se puede ver el Reporte, el código de programación utilizado y un video introductorio de este mismo.
+
+![Pie con sensor](./Proyecto/pie.png)
